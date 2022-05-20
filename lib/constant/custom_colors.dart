@@ -41,7 +41,7 @@ class CustomColors {
   static const lightGrey = Color(0xffD9D9D9);
   static const lightOrange = Color(0x5cff8412);
   static const lightskyBlue = Color(0x687ba0ff);
-  static const cBackground = Color(0xffE5E5E5);
+  static const cBackground = Color(0xfff6f4f4);
   static const cWhite = Colors.white;
   static const cAnccent = Color(0xffBEBEBE);
 }
