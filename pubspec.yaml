@@ -42,6 +42,13 @@ dependencies:
   image_cropper: any
   flutter_native_image: any
   cached_network_image: any
+  firebase_phone_auth_handler:
+  pinput: any
+  firebase_core: ^1.15.0
+  easy_container: any
+  intl_phone_field: ^3.1.0
+  get_it: any
+  provider: any
 
 
 dev_dependencies:

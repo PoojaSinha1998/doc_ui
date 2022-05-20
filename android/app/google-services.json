@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "799603082201",
+    "project_id": "fir-authdocapp",
+    "storage_bucket": "fir-authdocapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:799603082201:android:7273b5dd0e37231ff08fc8",
+        "android_client_info": {
+          "package_name": "com.poojasinha.doc_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "799603082201-6b451j51ne1b4e88378qj79aaovffkko.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbib5rBO7ya5iRfTdveI3wt-GTfSwLXt8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "799603082201-6b451j51ne1b4e88378qj79aaovffkko.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

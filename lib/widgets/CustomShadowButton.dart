@@ -6,10 +6,12 @@ class CustomShadowButtom extends StatelessWidget {
   String text;
   final onTap;
   double fontSize;
+  bool? status;
    CustomShadowButtom({
      this.text = '',
      this.onTap,
-     this.fontSize = 20
+     this.fontSize = 20,
+     this.status,
    });
 
   @override
@@ -20,7 +22,7 @@ class CustomShadowButtom extends StatelessWidget {
             height: 45,
             margin: EdgeInsets.all(3),
             decoration: BoxDecoration(
-              color: CustomColors.darkGreenShade1,
+              color: status! ? CustomColors.darkGreenShade1 :CustomColors.lightGrey,
               borderRadius: BorderRadius.circular(10),
               boxShadow: [
               BoxShadow(

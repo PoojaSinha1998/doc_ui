@@ -59,3 +59,7 @@ class AppStyles {
   );
 
 }
+
+class GlobalConstant{
+  static String phoneNumber="";
+}
